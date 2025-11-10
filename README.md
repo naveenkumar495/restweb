@@ -1,4 +1,4 @@
-<img width="1251" height="764" alt="image" src="https://github.com/user-attachments/assets/edd40107-5b6a-4683-9ce9-50312481b3fc" /># Ex.07 Restuarant Website
+# Ex.07 Restuarant Website
 ## Date:09/11/25
 
 ## AIM:
@@ -1075,7 +1075,7 @@ Publish the website in the given URL.
 <img width="1256" height="783" alt="image" src="https://github.com/user-attachments/assets/5ddfa526-c169-45d7-a693-d2cbe41b387b" />
 <img width="1248" height="768" alt="image" src="https://github.com/user-attachments/assets/6adecd15-ed8c-4135-8203-418340931ad5" />
 <img width="1251" height="764" alt="image" src="https://github.com/user-attachments/assets/5a0c2cd7-7928-4aa1-a628-d51e3512916f" />
-<img width="1251" height="764" alt="image" src="https://github.com/user-attachments/assets/274b7515-1564-499e-b063-37ee0c851b96" />
+<img width="1255" height="789" alt="image" src="https://github.com/user-attachments/assets/444351d2-4220-48ca-b8b9-a207c1334d8c" />
 
 
 ## RESULT:
